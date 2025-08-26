@@ -1,0 +1,1 @@
+/usr/bin/f95 -fPIC   -fPIC -shared -Wl,-soname,libopenblas.so.0 -o lib/libopenblas.so.0.3 @CMakeFiles/openblas_shared.dir/objects1.rsp @CMakeFiles/openblas_shared.dir/objects2.rsp @CMakeFiles/openblas_shared.dir/objects3.rsp @CMakeFiles/openblas_shared.dir/objects4.rsp   -L/usr/lib/gcc/x86_64-linux-gnu/12  -L/usr/local/lib  -L/usr/local/cuda/lib  -lm 

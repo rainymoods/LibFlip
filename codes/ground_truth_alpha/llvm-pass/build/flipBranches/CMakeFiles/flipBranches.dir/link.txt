@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -fno-rtti -shared  -o libflipBranches.so CMakeFiles/flipBranches.dir/flipBranches.cpp.o 
