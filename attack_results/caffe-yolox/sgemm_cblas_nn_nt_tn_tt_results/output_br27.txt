@@ -1,0 +1,799 @@
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg-------------
+detectResult: 27
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg
+number of box: 4
+xmin ymin xmax ymax: 715 460 786 531
+classId: 0
+score: 0.8429332320921034 
+
+xmin ymin xmax ymax: 124 292 562 621
+classId: 0
+score: 0.8390993531875556 
+
+xmin ymin xmax ymax: 895 471 958 528
+classId: 0
+score: 0.7991771420005139 
+
+xmin ymin xmax ymax: 1004 480 1081 536
+classId: 0
+score: 0.532062248691653 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927662460.jpg-------------
+detectResult: 43
+final result: 15
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927662460.jpg
+number of box: 15
+xmin ymin xmax ymax: 0 0 1394 866
+classId: 0
+score: 0.9999765210636796 
+
+xmin ymin xmax ymax: 754 448 850 515
+classId: 0
+score: 0.9994056165093832 
+
+xmin ymin xmax ymax: 690 447 785 514
+classId: 0
+score: 0.9989017721105934 
+
+xmin ymin xmax ymax: 924 465 996 504
+classId: 0
+score: 0.9988563720902732 
+
+xmin ymin xmax ymax: 717 465 804 537
+classId: 0
+score: 0.9981568005924949 
+
+xmin ymin xmax ymax: 910 469 999 528
+classId: 0
+score: 0.9972533844526825 
+
+xmin ymin xmax ymax: 894 473 962 532
+classId: 0
+score: 0.9966666907237315 
+
+xmin ymin xmax ymax: 976 495 1102 542
+classId: 0
+score: 0.9962071457432816 
+
+xmin ymin xmax ymax: 1007 476 1128 532
+classId: 0
+score: 0.9961202094489833 
+
+xmin ymin xmax ymax: 1046 489 1156 534
+classId: 0
+score: 0.963702340220323 
+
+xmin ymin xmax ymax: 827 478 906 520
+classId: 0
+score: 0.9538757422289439 
+
+xmin ymin xmax ymax: 897 460 974 510
+classId: 0
+score: 0.9098785228484442 
+
+xmin ymin xmax ymax: 814 482 858 519
+classId: 0
+score: 0.8723656922355453 
+
+xmin ymin xmax ymax: 849 476 889 494
+classId: 0
+score: 0.861943276646032 
+
+xmin ymin xmax ymax: 925 550 997 593
+classId: 0
+score: 0.7596087270343419 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927662460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927762460.jpg-------------
+detectResult: 75
+final result: 25
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927762460.jpg
+number of box: 25
+xmin ymin xmax ymax: 0 0 1600 900
+classId: 0
+score: 0.9999999999999918 
+
+xmin ymin xmax ymax: 813 423 920 459
+classId: 0
+score: 0.9999999942545976 
+
+xmin ymin xmax ymax: 657 421 759 454
+classId: 0
+score: 0.9999999735033452 
+
+xmin ymin xmax ymax: 949 428 1050 441
+classId: 0
+score: 0.9999999544999424 
+
+xmin ymin xmax ymax: 942 513 1100 533
+classId: 0
+score: 0.9999999408642514 
+
+xmin ymin xmax ymax: 711 425 818 501
+classId: 0
+score: 0.9999977431993031 
+
+xmin ymin xmax ymax: 711 453 829 544
+classId: 0
+score: 0.999996960044922 
+
+xmin ymin xmax ymax: 762 452 881 544
+classId: 0
+score: 0.9999950600401122 
+
+xmin ymin xmax ymax: 900 469 1072 529
+classId: 0
+score: 0.9999946140321092 
+
+xmin ymin xmax ymax: 885 470 980 540
+classId: 0
+score: 0.9999915656493379 
+
+xmin ymin xmax ymax: 981 466 1200 532
+classId: 0
+score: 0.9999768733965345 
+
+xmin ymin xmax ymax: 996 476 1112 531
+classId: 0
+score: 0.9999643882200722 
+
+xmin ymin xmax ymax: 1100 498 1241 518
+classId: 0
+score: 0.9999440719724926 
+
+xmin ymin xmax ymax: 894 437 936 440
+classId: 0
+score: 0.9999271336189897 
+
+xmin ymin xmax ymax: 837 472 962 514
+classId: 0
+score: 0.9999058227560272 
+
+xmin ymin xmax ymax: 807 473 907 515
+classId: 0
+score: 0.999904527943562 
+
+xmin ymin xmax ymax: 999 499 1115 549
+classId: 0
+score: 0.9998363031204641 
+
+xmin ymin xmax ymax: 886 447 989 492
+classId: 0
+score: 0.9997936103509893 
+
+xmin ymin xmax ymax: 827 490 891 527
+classId: 0
+score: 0.9996683588857848 
+
+xmin ymin xmax ymax: 903 434 1050 504
+classId: 0
+score: 0.9988451205018792 
+
+xmin ymin xmax ymax: 948 670 1050 686
+classId: 0
+score: 0.9954225214162802 
+
+xmin ymin xmax ymax: 1157 665 1158 665
+classId: 0
+score: 0.9143054016232598 
+
+xmin ymin xmax ymax: 883 658 927 666
+classId: 0
+score: 0.777265178205189 
+
+xmin ymin xmax ymax: 1134 650 1134 650
+classId: 0
+score: 0.606400760003028 
+
+xmin ymin xmax ymax: 0 808 1600 884
+classId: 2
+score: 0.5208127664517487 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927862460.jpg-------------
+detectResult: 177
+final result: 59
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927862460.jpg
+number of box: 59
+xmin ymin xmax ymax: 0 0 1600 900
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 903 369 990 378
+classId: 0
+score: 0.9999999999999998 
+
+xmin ymin xmax ymax: 914 517 1060 521
+classId: 0
+score: 0.9999999999999993 
+
+xmin ymin xmax ymax: 626 357 709 362
+classId: 0
+score: 0.9999999999999927 
+
+xmin ymin xmax ymax: 983 342 1115 343
+classId: 0
+score: 0.9999999999999867 
+
+xmin ymin xmax ymax: 953 347 995 347
+classId: 0
+score: 0.9999999997346922 
+
+xmin ymin xmax ymax: 685 441 876 555
+classId: 0
+score: 0.9999999996079785 
+
+xmin ymin xmax ymax: 706 409 844 488
+classId: 0
+score: 0.9999999992658213 
+
+xmin ymin xmax ymax: 812 446 1204 551
+classId: 0
+score: 0.9999999982062886 
+
+xmin ymin xmax ymax: 866 465 1000 553
+classId: 0
+score: 0.9999999945527678 
+
+xmin ymin xmax ymax: 881 410 1122 493
+classId: 0
+score: 0.9999999937261244 
+
+xmin ymin xmax ymax: 1322 783 1322 783
+classId: 0
+score: 0.9999999928302981 
+
+xmin ymin xmax ymax: 774 437 928 548
+classId: 0
+score: 0.9999999875035669 
+
+xmin ymin xmax ymax: 1178 497 1329 503
+classId: 0
+score: 0.999999979389842 
+
+xmin ymin xmax ymax: 867 426 1014 474
+classId: 0
+score: 0.9999999599040765 
+
+xmin ymin xmax ymax: 994 450 1100 539
+classId: 0
+score: 0.9999998746212764 
+
+xmin ymin xmax ymax: 917 480 1309 548
+classId: 0
+score: 0.9999998512680329 
+
+xmin ymin xmax ymax: 799 470 939 511
+classId: 0
+score: 0.9999997259076102 
+
+xmin ymin xmax ymax: 974 484 1144 541
+classId: 0
+score: 0.9999996207035602 
+
+xmin ymin xmax ymax: 976 501 1181 560
+classId: 0
+score: 0.9999993949707917 
+
+xmin ymin xmax ymax: 837 491 912 530
+classId: 0
+score: 0.9999990676826891 
+
+xmin ymin xmax ymax: 827 466 1035 510
+classId: 0
+score: 0.999998812397507 
+
+xmin ymin xmax ymax: 1133 730 1133 730
+classId: 0
+score: 0.9999978420861144 
+
+xmin ymin xmax ymax: 1546 78 1600 703
+classId: 0
+score: 0.9999960565896314 
+
+xmin ymin xmax ymax: 895 443 966 482
+classId: 0
+score: 0.9999949978530861 
+
+xmin ymin xmax ymax: 1241 750 1241 750
+classId: 0
+score: 0.9999914221330717 
+
+xmin ymin xmax ymax: 835 484 1036 524
+classId: 0
+score: 0.9999676450634666 
+
+xmin ymin xmax ymax: 976 829 1117 831
+classId: 0
+score: 0.9999444396435325 
+
+xmin ymin xmax ymax: 509 0 616 900
+classId: 0
+score: 0.9999430844120344 
+
+xmin ymin xmax ymax: 117 27 220 128
+classId: 0
+score: 0.999777636125106 
+
+xmin ymin xmax ymax: 716 457 861 525
+classId: 0
+score: 0.9997696574018554 
+
+xmin ymin xmax ymax: 934 851 934 851
+classId: 0
+score: 0.9997488348353495 
+
+xmin ymin xmax ymax: 0 1 1600 52
+classId: 0
+score: 0.9997414964085156 
+
+xmin ymin xmax ymax: 1580 0 1600 222
+classId: 0
+score: 0.9995619763158647 
+
+xmin ymin xmax ymax: 904 779 904 779
+classId: 0
+score: 0.9994879120273735 
+
+xmin ymin xmax ymax: 882 0 1600 900
+classId: 0
+score: 0.9982327041513487 
+
+xmin ymin xmax ymax: 1563 0 1582 900
+classId: 0
+score: 0.9977537611827713 
+
+xmin ymin xmax ymax: 0 701 1600 900
+classId: 0
+score: 0.996751946079748 
+
+xmin ymin xmax ymax: 1280 332 1389 639
+classId: 0
+score: 0.9965838149132362 
+
+xmin ymin xmax ymax: 933 788 986 789
+classId: 0
+score: 0.9957066378128038 
+
+xmin ymin xmax ymax: 154 0 201 202
+classId: 0
+score: 0.9900782297790028 
+
+xmin ymin xmax ymax: 1386 0 1559 900
+classId: 0
+score: 0.9857090511838248 
+
+xmin ymin xmax ymax: 1566 48 1600 129
+classId: 0
+score: 0.9816998598006189 
+
+xmin ymin xmax ymax: 684 455 793 511
+classId: 0
+score: 0.9495559425205155 
+
+xmin ymin xmax ymax: 740 475 808 550
+classId: 0
+score: 0.9480595856213218 
+
+xmin ymin xmax ymax: 1572 0 1585 900
+classId: 0
+score: 0.9291279935714616 
+
+xmin ymin xmax ymax: 1255 358 1322 620
+classId: 0
+score: 0.9161536415793908 
+
+xmin ymin xmax ymax: 89 186 1276 723
+classId: 0
+score: 0.9017572979219652 
+
+xmin ymin xmax ymax: 366 394 1154 547
+classId: 0
+score: 0.8693421447312543 
+
+xmin ymin xmax ymax: 641 415 641 415
+classId: 0
+score: 0.8537841271464067 
+
+xmin ymin xmax ymax: 834 759 859 763
+classId: 0
+score: 0.8093674484618545 
+
+xmin ymin xmax ymax: 1548 32 1575 187
+classId: 0
+score: 0.7893405751558928 
+
+xmin ymin xmax ymax: 746 449 793 512
+classId: 0
+score: 0.7530811917625023 
+
+xmin ymin xmax ymax: 1024 33 1600 83
+classId: 0
+score: 0.7243910004135411 
+
+xmin ymin xmax ymax: 1543 0 1597 201
+classId: 0
+score: 0.6410674436192167 
+
+xmin ymin xmax ymax: 813 362 818 362
+classId: 0
+score: 0.5921847527938784 
+
+xmin ymin xmax ymax: 146 0 160 261
+classId: 0
+score: 0.5845384861285362 
+
+xmin ymin xmax ymax: 0 40 792 97
+classId: 0
+score: 0.5601150916006233 
+
+xmin ymin xmax ymax: 942 0 1600 73
+classId: 0
+score: 0.507289471975389 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927862460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927912477.jpg-------------
+detectResult: 349
+final result: 85
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927912477.jpg
+number of box: 85
+xmin ymin xmax ymax: 0 0 1600 900
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 1031 273 1075 274
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 591 237 642 237
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 1030 194 1061 194
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 1054 195 1173 195
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 888 507 996 507
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 1535 922 1535 900
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 827 1026 827 900
+classId: 0
+score: 1.0 
+
+xmin ymin xmax ymax: 568 416 931 598
+classId: 0
+score: 0.9999999999999947 
+
+xmin ymin xmax ymax: 701 377 877 484
+classId: 0
+score: 0.9999999999999707 
+
+xmin ymin xmax ymax: 645 460 854 545
+classId: 0
+score: 0.9999999999999658 
+
+xmin ymin xmax ymax: 1313 842 1313 842
+classId: 0
+score: 0.99999999999996 
+
+xmin ymin xmax ymax: 678 418 1367 576
+classId: 0
+score: 0.999999999999958 
+
+xmin ymin xmax ymax: 830 372 1226 491
+classId: 0
+score: 0.9999999999998599 
+
+xmin ymin xmax ymax: 1385 868 1385 868
+classId: 0
+score: 0.9999999999998486 
+
+xmin ymin xmax ymax: 822 469 1078 519
+classId: 0
+score: 0.999999999999746 
+
+xmin ymin xmax ymax: 841 456 1037 575
+classId: 0
+score: 0.9999999999977354 
+
+xmin ymin xmax ymax: 1300 487 1423 488
+classId: 0
+score: 0.999999999996279 
+
+xmin ymin xmax ymax: 898 427 963 467
+classId: 0
+score: 0.9999999999927036 
+
+xmin ymin xmax ymax: 0 1053 1600 900
+classId: 0
+score: 0.9999999999909777 
+
+xmin ymin xmax ymax: 789 0 813 900
+classId: 0
+score: 0.9999999999895479 
+
+xmin ymin xmax ymax: 766 387 991 564
+classId: 0
+score: 0.9999999999672717 
+
+xmin ymin xmax ymax: 1005 420 1097 561
+classId: 0
+score: 0.9999999999563289 
+
+xmin ymin xmax ymax: 1548 0 1600 900
+classId: 0
+score: 0.9999999999394416 
+
+xmin ymin xmax ymax: 843 395 1046 459
+classId: 0
+score: 0.9999999999318512 
+
+xmin ymin xmax ymax: 993 908 993 900
+classId: 0
+score: 0.9999999999211404 
+
+xmin ymin xmax ymax: 839 471 926 505
+classId: 0
+score: 0.9999999999118145 
+
+xmin ymin xmax ymax: 936 430 1188 562
+classId: 0
+score: 0.9999999998176743 
+
+xmin ymin xmax ymax: 751 467 1305 525
+classId: 0
+score: 0.9999999998045315 
+
+xmin ymin xmax ymax: 896 487 1319 574
+classId: 0
+score: 0.9999999997559659 
+
+xmin ymin xmax ymax: 753 438 933 528
+classId: 0
+score: 0.9999999993354889 
+
+xmin ymin xmax ymax: 0 0 1600 52
+classId: 0
+score: 0.9999999991603266 
+
+xmin ymin xmax ymax: 836 494 929 534
+classId: 0
+score: 0.9999999991352444 
+
+xmin ymin xmax ymax: 802 489 990 520
+classId: 0
+score: 0.9999999988803381 
+
+xmin ymin xmax ymax: 1149 0 1521 900
+classId: 0
+score: 0.9999999987518247 
+
+xmin ymin xmax ymax: 1329 0 1432 900
+classId: 0
+score: 0.9999999986043531 
+
+xmin ymin xmax ymax: 756 417 839 512
+classId: 0
+score: 0.9999999904242679 
+
+xmin ymin xmax ymax: 1581 0 1600 483
+classId: 0
+score: 0.9999999816199874 
+
+xmin ymin xmax ymax: 0 1146 1600 900
+classId: 0
+score: 0.9999999704296738 
+
+xmin ymin xmax ymax: 236 0 240 494
+classId: 0
+score: 0.9999999303718684 
+
+xmin ymin xmax ymax: 1258 75 1344 827
+classId: 0
+score: 0.9999999232682669 
+
+xmin ymin xmax ymax: 0 52 1600 124
+classId: 0
+score: 0.9999998990351096 
+
+xmin ymin xmax ymax: 255 0 279 252
+classId: 0
+score: 0.9999998400013873 
+
+xmin ymin xmax ymax: 184 48 244 153
+classId: 0
+score: 0.9999997821214479 
+
+xmin ymin xmax ymax: 784 459 859 548
+classId: 0
+score: 0.9999996657571093 
+
+xmin ymin xmax ymax: 1391 0 1422 900
+classId: 0
+score: 0.9999995432580625 
+
+xmin ymin xmax ymax: 0 0 1600 265
+classId: 0
+score: 0.9999983206833566 
+
+xmin ymin xmax ymax: 887 471 990 510
+classId: 0
+score: 0.9999950474735502 
+
+xmin ymin xmax ymax: 1037 1038 1179 900
+classId: 0
+score: 0.9999948249758492 
+
+xmin ymin xmax ymax: 866 432 908 474
+classId: 0
+score: 0.9999937949212063 
+
+xmin ymin xmax ymax: 1437 0 1517 900
+classId: 0
+score: 0.9999923027727811 
+
+xmin ymin xmax ymax: 1014 465 1229 537
+classId: 0
+score: 0.9999920406699065 
+
+xmin ymin xmax ymax: 1452 33 1592 233
+classId: 0
+score: 0.9999444910140483 
+
+xmin ymin xmax ymax: 189 297 1369 557
+classId: 0
+score: 0.999937047548385 
+
+xmin ymin xmax ymax: 1518 0 1595 299
+classId: 0
+score: 0.9999309202839015 
+
+xmin ymin xmax ymax: 827 448 893 503
+classId: 0
+score: 0.9998895478783061 
+
+xmin ymin xmax ymax: 1025 393 1248 533
+classId: 0
+score: 0.9997896658460714 
+
+xmin ymin xmax ymax: 993 952 1050 900
+classId: 0
+score: 0.9997278033473458 
+
+xmin ymin xmax ymax: 714 424 797 514
+classId: 0
+score: 0.9996388709205145 
+
+xmin ymin xmax ymax: 1151 0 1600 155
+classId: 0
+score: 0.9996355809392621 
+
+xmin ymin xmax ymax: 257 0 281 900
+classId: 0
+score: 0.9995112538975427 
+
+xmin ymin xmax ymax: 1531 56 1571 250
+classId: 0
+score: 0.999505952087585 
+
+xmin ymin xmax ymax: 1009 471 1117 514
+classId: 0
+score: 0.9994249299093408 
+
+xmin ymin xmax ymax: 837 418 989 462
+classId: 0
+score: 0.9994237645237769 
+
+xmin ymin xmax ymax: 431 50 952 900
+classId: 0
+score: 0.9992654534293529 
+
+xmin ymin xmax ymax: 1418 0 1463 900
+classId: 0
+score: 0.9991959168654228 
+
+xmin ymin xmax ymax: 0 0 1045 495
+classId: 0
+score: 0.9988443456623906 
+
+xmin ymin xmax ymax: 1567 0 1574 900
+classId: 0
+score: 0.9988402809702533 
+
+xmin ymin xmax ymax: 555 66 784 900
+classId: 0
+score: 0.998572785064718 
+
+xmin ymin xmax ymax: 258 0 325 900
+classId: 0
+score: 0.9976078574691474 
+
+xmin ymin xmax ymax: 0 498 1600 900
+classId: 0
+score: 0.9968569592962016 
+
+xmin ymin xmax ymax: 948 361 1054 504
+classId: 0
+score: 0.9960104859813499 
+
+xmin ymin xmax ymax: 779 0 946 900
+classId: 0
+score: 0.9916689184580679 
+
+xmin ymin xmax ymax: 621 388 941 509
+classId: 0
+score: 0.9799769035431103 
+
+xmin ymin xmax ymax: 122 0 287 900
+classId: 0
+score: 0.9776682554081643 
+
+xmin ymin xmax ymax: 1123 746 1397 883
+classId: 0
+score: 0.9768556140005553 
+
+xmin ymin xmax ymax: 177 0 756 900
+classId: 0
+score: 0.9742283852680587 
+
+xmin ymin xmax ymax: 802 906 823 900
+classId: 0
+score: 0.9720388620527126 
+
+xmin ymin xmax ymax: 516 299 800 708
+classId: 0
+score: 0.9447176033731618 
+
+xmin ymin xmax ymax: 859 432 897 513
+classId: 0
+score: 0.9201478192591808 
+
+xmin ymin xmax ymax: 939 466 1022 519
+classId: 0
+score: 0.9135644756102541 
+
+xmin ymin xmax ymax: 1050 875 1051 875
+classId: 0
+score: 0.8933350350328653 
+
+xmin ymin xmax ymax: 475 0 543 900
+classId: 0
+score: 0.8818422594985829 
+
+xmin ymin xmax ymax: 0 636 1600 636
+classId: 0
+score: 0.8573278529971664 
+
+xmin ymin xmax ymax: 736 242 738 242
+classId: 0
+score: 0.5122585082176337 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927912477.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928012460.jpg-------------
+Traceback (most recent call last):
+  File "/home/qibin/SGXBLAS/caffe-yolox/caffe_yolox/yolox_demo_caffe.py", line 245, in <module>
+    detect(os.path.join(folder_path, f))
+  File "/home/qibin/SGXBLAS/caffe-yolox/caffe_yolox/yolox_demo_caffe.py", line 193, in detect
+    predbox = postprocess(out, img_h, img_w)
+  File "/home/qibin/SGXBLAS/caffe-yolox/caffe_yolox/yolox_demo_caffe.py", line 143, in postprocess
+    ce_val = sigmoid(ce[h * mapSize[index][1] + w])
+  File "/home/qibin/SGXBLAS/caffe-yolox/caffe_yolox/yolox_demo_caffe.py", line 107, in sigmoid
+    return 1 / (1 + exp(-x))
+OverflowError: math range error
+returncode:1
