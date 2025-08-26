@@ -1,0 +1,1408 @@
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg
+number of box: 2
+xmin ymin xmax ymax: 370 506 402 577
+classId: 0
+score: 0.6198673239998665 
+
+xmin ymin xmax ymax: 412 514 451 586
+classId: 0
+score: 0.551759447203008 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927662460.jpg-------------
+detectResult: 2
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927662460.jpg
+number of box: 1
+xmin ymin xmax ymax: 366 508 406 588
+classId: 0
+score: 0.6624237322948051 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927662460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927762460.jpg-------------
+detectResult: 5
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927762460.jpg
+number of box: 4
+xmin ymin xmax ymax: 412 518 446 579
+classId: 0
+score: 0.5689176728952219 
+
+xmin ymin xmax ymax: 698 738 729 797
+classId: 0
+score: 0.5241868015140136 
+
+xmin ymin xmax ymax: 370 470 398 544
+classId: 1
+score: 0.5187699459105526 
+
+xmin ymin xmax ymax: 369 476 399 549
+classId: 0
+score: 0.5158748124518029 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927862460.jpg-------------
+detectResult: 4
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927862460.jpg
+number of box: 3
+xmin ymin xmax ymax: 361 533 404 602
+classId: 0
+score: 0.6659912475446169 
+
+xmin ymin xmax ymax: 317 563 357 625
+classId: 0
+score: 0.5910560322321862 
+
+xmin ymin xmax ymax: 321 468 353 552
+classId: 0
+score: 0.5039741305591138 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927862460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927912477.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927912477.jpg
+number of box: 2
+xmin ymin xmax ymax: 315 557 358 629
+classId: 0
+score: 0.7642615584854383 
+
+xmin ymin xmax ymax: 316 546 354 594
+classId: 0
+score: 0.5813941808204632 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927912477.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928012460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928012460.jpg
+number of box: 2
+xmin ymin xmax ymax: 39 566 68 622
+classId: 0
+score: 0.7014940452977776 
+
+xmin ymin xmax ymax: 178 573 213 617
+classId: 0
+score: 0.5714204094863399 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928012460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928112460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928112460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928112460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928162460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928162460.jpg
+number of box: 2
+xmin ymin xmax ymax: 219 570 265 668
+classId: 0
+score: 0.5863326120677254 
+
+xmin ymin xmax ymax: 177 565 210 654
+classId: 1
+score: 0.5076190452823227 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928162460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928262460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928262460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928262460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928362460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928362460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928362460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928412460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928412460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928412460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928512460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928512460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928512460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928612460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928612460.jpg
+number of box: 1
+xmin ymin xmax ymax: 368 644 401 695
+classId: 0
+score: 0.5022622181386456 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928662460.jpg-------------
+detectResult: 2
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928662460.jpg
+number of box: 1
+xmin ymin xmax ymax: 1311 840 1339 880
+classId: 0
+score: 0.771845280296447 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928662460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928762460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928762460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928862460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928862460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928862460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928912460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928912460.jpg
+number of box: 1
+xmin ymin xmax ymax: 275 636 306 686
+classId: 0
+score: 0.5424353778210028 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928912460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929012460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929012460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929012460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929112460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929112460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929112460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929162460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929162460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929162460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929262460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929262460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929262460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929362460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929362460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929362460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929412460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929412460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929412460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929512460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929512460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929512460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929612460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929612460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929662460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929662460.jpg
+number of box: 1
+xmin ymin xmax ymax: 979 833 1006 869
+classId: 0
+score: 0.5488699334935727 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929662460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929762460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929762460.jpg
+number of box: 1
+xmin ymin xmax ymax: 133 840 162 886
+classId: 0
+score: 0.5173367882107327 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929863782.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929863782.jpg
+number of box: 1
+xmin ymin xmax ymax: 1357 701 1385 760
+classId: 0
+score: 0.5220269518410525 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929863782.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929912460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929912460.jpg
+number of box: 2
+xmin ymin xmax ymax: 978 797 1009 867
+classId: 0
+score: 0.5609529170756313 
+
+xmin ymin xmax ymax: 1024 794 1055 867
+classId: 0
+score: 0.516494125287453 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929912460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930012460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930012460.jpg
+number of box: 1
+xmin ymin xmax ymax: 1498 786 1527 845
+classId: 0
+score: 0.534451151146175 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930012460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930162460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930162460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930162460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930262460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930262460.jpg
+number of box: 2
+xmin ymin xmax ymax: 1024 611 1057 652
+classId: 0
+score: 0.6416492138640476 
+
+xmin ymin xmax ymax: 1358 443 1388 557
+classId: 1
+score: 0.5472162424881472 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930262460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930362460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930362460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930362460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930412460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930412460.jpg
+number of box: 1
+xmin ymin xmax ymax: 1405 525 1432 561
+classId: 0
+score: 0.5047283471974777 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930412460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930512460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930512460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930512460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg
+number of box: 2
+xmin ymin xmax ymax: 1306 507 1340 568
+classId: 0
+score: 0.561674994466549 
+
+xmin ymin xmax ymax: 40 744 73 880
+classId: 1
+score: 0.5121342657726629 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930662460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930662460.jpg
+number of box: 1
+xmin ymin xmax ymax: 1449 502 1479 562
+classId: 1
+score: 0.560397672908392 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930662460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930762460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930762460.jpg
+number of box: 1
+xmin ymin xmax ymax: 1450 513 1481 559
+classId: 0
+score: 0.5166660992135156 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930862460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930862460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930862460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930912460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930912460.jpg
+number of box: 2
+xmin ymin xmax ymax: 462 647 493 689
+classId: 0
+score: 0.5169760608364445 
+
+xmin ymin xmax ymax: 698 558 727 620
+classId: 0
+score: 0.5002413830415935 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930912460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931012486.jpg-------------
+detectResult: 3
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931012486.jpg
+number of box: 3
+xmin ymin xmax ymax: 698 441 731 513
+classId: 1
+score: 0.6012060473168271 
+
+xmin ymin xmax ymax: 1498 519 1526 563
+classId: 0
+score: 0.5228921227006225 
+
+xmin ymin xmax ymax: 694 433 727 512
+classId: 0
+score: 0.5014703042155721 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931012486.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931112460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931112460.jpg
+number of box: 1
+xmin ymin xmax ymax: 697 438 731 514
+classId: 1
+score: 0.6153426569628656 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931112460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg
+number of box: 2
+xmin ymin xmax ymax: 694 421 729 512
+classId: 0
+score: 0.5864942575745595 
+
+xmin ymin xmax ymax: 697 439 730 516
+classId: 1
+score: 0.5784951408578913 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931262460.jpg-------------
+detectResult: 2
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931262460.jpg
+number of box: 1
+xmin ymin xmax ymax: 697 440 728 510
+classId: 0
+score: 0.6545679950075838 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931262460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931362460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931362460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931362460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931412460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931412460.jpg
+number of box: 1
+xmin ymin xmax ymax: 697 436 728 508
+classId: 0
+score: 0.5458489149583822 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931412460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931512460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931512460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931512460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931612460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931612460.jpg
+number of box: 1
+xmin ymin xmax ymax: 652 398 685 513
+classId: 1
+score: 0.5016466391068726 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg
+number of box: 1
+xmin ymin xmax ymax: 652 488 681 558
+classId: 0
+score: 0.6281701187532994 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931762460.jpg-------------
+detectResult: 3
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931762460.jpg
+number of box: 2
+xmin ymin xmax ymax: 653 491 682 554
+classId: 0
+score: 0.6865171319456609 
+
+xmin ymin xmax ymax: 1355 735 1386 819
+classId: 0
+score: 0.5551865108438702 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931862460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931862460.jpg
+number of box: 2
+xmin ymin xmax ymax: 1449 784 1480 860
+classId: 0
+score: 0.5148199221306474 
+
+xmin ymin xmax ymax: 653 495 682 554
+classId: 0
+score: 0.5078230866086231 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931862460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931912460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931912460.jpg
+number of box: 1
+xmin ymin xmax ymax: 653 504 682 557
+classId: 0
+score: 0.5164717126899095 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931912460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932012460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932012460.jpg
+number of box: 1
+xmin ymin xmax ymax: 648 442 681 513
+classId: 1
+score: 0.5154118761595917 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932012460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932112460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932112460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932112460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg-------------
+detectResult: 3
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg
+number of box: 1
+xmin ymin xmax ymax: 605 498 635 551
+classId: 0
+score: 0.6888733806112676 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932262460.jpg-------------
+detectResult: 3
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932262460.jpg
+number of box: 3
+xmin ymin xmax ymax: 605 474 634 540
+classId: 0
+score: 0.6023196422203564 
+
+xmin ymin xmax ymax: 836 770 871 868
+classId: 0
+score: 0.5550851479014637 
+
+xmin ymin xmax ymax: 607 502 636 557
+classId: 0
+score: 0.5287735082285282 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932262460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932362460.jpg-------------
+detectResult: 2
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932362460.jpg
+number of box: 1
+xmin ymin xmax ymax: 607 520 636 558
+classId: 0
+score: 0.7317080881096876 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932362460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932412460.jpg-------------
+detectResult: 2
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932412460.jpg
+number of box: 1
+xmin ymin xmax ymax: 607 521 635 558
+classId: 0
+score: 0.7443591770963941 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932412460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932512460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932512460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932512460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932612460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932612460.jpg
+number of box: 2
+xmin ymin xmax ymax: 1309 795 1337 854
+classId: 0
+score: 0.5656401155087788 
+
+xmin ymin xmax ymax: 555 524 586 556
+classId: 0
+score: 0.5305900745423471 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932662460.jpg-------------
+detectResult: 3
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932662460.jpg
+number of box: 3
+xmin ymin xmax ymax: 557 483 587 530
+classId: 0
+score: 0.643762043369664 
+
+xmin ymin xmax ymax: 556 524 586 557
+classId: 0
+score: 0.578595020148662 
+
+xmin ymin xmax ymax: 790 736 822 859
+classId: 1
+score: 0.5363074460540193 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932662460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932762460.jpg-------------
+detectResult: 3
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932762460.jpg
+number of box: 2
+xmin ymin xmax ymax: 560 503 588 558
+classId: 0
+score: 0.6124974842073148 
+
+xmin ymin xmax ymax: 1356 627 1391 696
+classId: 0
+score: 0.5490459395647439 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932862460.jpg-------------
+detectResult: 3
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932862460.jpg
+number of box: 3
+xmin ymin xmax ymax: 559 517 588 556
+classId: 0
+score: 0.6575361238352956 
+
+xmin ymin xmax ymax: 466 500 495 560
+classId: 0
+score: 0.5410265006430153 
+
+xmin ymin xmax ymax: 553 443 587 534
+classId: 1
+score: 0.5291864884965125 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932862460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932912460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932912460.jpg
+number of box: 2
+xmin ymin xmax ymax: 559 519 589 559
+classId: 0
+score: 0.660674852423901 
+
+xmin ymin xmax ymax: 1453 650 1481 705
+classId: 0
+score: 0.5310406408884611 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932912460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933112460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933112460.jpg
+number of box: 1
+xmin ymin xmax ymax: 508 489 542 542
+classId: 0
+score: 0.5118178265447366 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933112460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933162460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933162460.jpg
+number of box: 1
+xmin ymin xmax ymax: 510 521 539 554
+classId: 0
+score: 0.5947033883518802 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933162460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933262460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933262460.jpg
+number of box: 2
+xmin ymin xmax ymax: 513 517 539 560
+classId: 0
+score: 0.6096786347942571 
+
+xmin ymin xmax ymax: 413 494 445 555
+classId: 0
+score: 0.5010328525183925 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933262460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933362467.jpg-------------
+detectResult: 3
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933362467.jpg
+number of box: 3
+xmin ymin xmax ymax: 512 510 542 559
+classId: 0
+score: 0.596983048414778 
+
+xmin ymin xmax ymax: 508 447 537 534
+classId: 1
+score: 0.5803106688110495 
+
+xmin ymin xmax ymax: 463 436 496 526
+classId: 1
+score: 0.5108586122719747 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933362467.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933412460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933412460.jpg
+number of box: 2
+xmin ymin xmax ymax: 508 454 537 529
+classId: 1
+score: 0.5517022267706556 
+
+xmin ymin xmax ymax: 511 515 542 560
+classId: 0
+score: 0.5392335637592013 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933412460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933512460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933512460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933512460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933612460.jpg-------------
+detectResult: 3
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933612460.jpg
+number of box: 3
+xmin ymin xmax ymax: 134 481 165 527
+classId: 0
+score: 0.6112157877861906 
+
+xmin ymin xmax ymax: 506 447 537 530
+classId: 1
+score: 0.5165959428878542 
+
+xmin ymin xmax ymax: 1261 535 1296 583
+classId: 1
+score: 0.5161646097731072 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933762460.jpg-------------
+detectResult: 3
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933762460.jpg
+number of box: 2
+xmin ymin xmax ymax: 360 498 400 559
+classId: 0
+score: 0.6026877685762353 
+
+xmin ymin xmax ymax: 464 525 491 559
+classId: 0
+score: 0.5496456504705293 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933862509.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933862509.jpg
+number of box: 1
+xmin ymin xmax ymax: 838 652 867 690
+classId: 0
+score: 0.5313150797900819 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933862509.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933912460.jpg-------------
+detectResult: 4
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933912460.jpg
+number of box: 4
+xmin ymin xmax ymax: 227 461 257 520
+classId: 0
+score: 0.5999068779465982 
+
+xmin ymin xmax ymax: 886 651 913 689
+classId: 0
+score: 0.5927055502281805 
+
+xmin ymin xmax ymax: 464 510 492 556
+classId: 0
+score: 0.5455947277337974 
+
+xmin ymin xmax ymax: 459 441 489 535
+classId: 1
+score: 0.5136396402270177 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402933912460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934012460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934012460.jpg
+number of box: 2
+xmin ymin xmax ymax: 463 469 491 525
+classId: 1
+score: 0.5770354858505307 
+
+xmin ymin xmax ymax: 886 841 914 885
+classId: 0
+score: 0.5174905112752504 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934012460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934112460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934112460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934112460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934162460.jpg-------------
+detectResult: 0
+final result: 0
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934162460.jpg
+number of box: 0
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934162460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934262460.jpg-------------
+detectResult: 4
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934262460.jpg
+number of box: 4
+xmin ymin xmax ymax: 457 432 491 529
+classId: 1
+score: 0.5819920912377203 
+
+xmin ymin xmax ymax: 980 837 1008 885
+classId: 0
+score: 0.5367464178890949 
+
+xmin ymin xmax ymax: 508 604 542 679
+classId: 0
+score: 0.5095275220999603 
+
+xmin ymin xmax ymax: 320 833 348 884
+classId: 0
+score: 0.503724517049561 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934262460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934362460.jpg-------------
+detectResult: 4
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934362460.jpg
+number of box: 3
+xmin ymin xmax ymax: 463 515 495 560
+classId: 0
+score: 0.5861247561960428 
+
+xmin ymin xmax ymax: 1357 520 1393 558
+classId: 0
+score: 0.545243286353763 
+
+xmin ymin xmax ymax: 458 446 491 522
+classId: 1
+score: 0.5126608662643868 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934362460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934412460.jpg-------------
+detectResult: 1
+final result: 1
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934412460.jpg
+number of box: 1
+xmin ymin xmax ymax: 134 648 162 693
+classId: 0
+score: 0.5187267891588502 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934412460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934512460.jpg-------------
+detectResult: 6
+final result: 5
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934512460.jpg
+number of box: 5
+xmin ymin xmax ymax: 322 700 352 759
+classId: 0
+score: 0.6727914857104004 
+
+xmin ymin xmax ymax: 271 519 305 569
+classId: 0
+score: 0.6383951011316754 
+
+xmin ymin xmax ymax: 414 522 444 562
+classId: 0
+score: 0.5987371070960569 
+
+xmin ymin xmax ymax: 695 651 729 734
+classId: 0
+score: 0.5886272460457023 
+
+xmin ymin xmax ymax: 1073 840 1101 882
+classId: 0
+score: 0.548252122560192 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934512460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934612460.jpg-------------
+detectResult: 7
+final result: 7
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934612460.jpg
+number of box: 7
+xmin ymin xmax ymax: 696 650 729 721
+classId: 0
+score: 0.5598977763346411 
+
+xmin ymin xmax ymax: 269 530 304 568
+classId: 0
+score: 0.5475007800593019 
+
+xmin ymin xmax ymax: 1169 833 1198 884
+classId: 0
+score: 0.5440736034788933 
+
+xmin ymin xmax ymax: 1453 666 1490 776
+classId: 1
+score: 0.5406490280675251 
+
+xmin ymin xmax ymax: 415 517 445 561
+classId: 0
+score: 0.5147765330158801 
+
+xmin ymin xmax ymax: 225 834 256 879
+classId: 0
+score: 0.5147571369502806 
+
+xmin ymin xmax ymax: 1213 832 1242 882
+classId: 0
+score: 0.5054957470430039 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934662484.jpg-------------
+detectResult: 4
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934662484.jpg
+number of box: 4
+xmin ymin xmax ymax: 887 661 917 718
+classId: 0
+score: 0.5991348278024066 
+
+xmin ymin xmax ymax: 269 529 304 571
+classId: 0
+score: 0.5422468936089897 
+
+xmin ymin xmax ymax: 130 737 162 816
+classId: 0
+score: 0.5210010924026055 
+
+xmin ymin xmax ymax: 1260 815 1291 870
+classId: 0
+score: 0.5166771142033146 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934662484.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934762460.jpg-------------
+detectResult: 3
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934762460.jpg
+number of box: 3
+xmin ymin xmax ymax: 509 697 541 758
+classId: 0
+score: 0.6735333923584215 
+
+xmin ymin xmax ymax: 364 644 399 786
+classId: 1
+score: 0.6061721078363562 
+
+xmin ymin xmax ymax: 271 531 303 576
+classId: 0
+score: 0.566318760903019 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934862460.jpg-------------
+detectResult: 3
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934862460.jpg
+number of box: 3
+xmin ymin xmax ymax: 86 565 116 620
+classId: 0
+score: 0.6193033106791491 
+
+xmin ymin xmax ymax: 269 529 303 573
+classId: 0
+score: 0.5940023246936903 
+
+xmin ymin xmax ymax: 416 520 444 562
+classId: 0
+score: 0.5256197118636529 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934862460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934912460.jpg-------------
+detectResult: 4
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934912460.jpg
+number of box: 4
+xmin ymin xmax ymax: 269 526 303 567
+classId: 0
+score: 0.583422355202473 
+
+xmin ymin xmax ymax: 368 834 399 885
+classId: 0
+score: 0.558345872009985 
+
+xmin ymin xmax ymax: 85 556 117 618
+classId: 0
+score: 0.5346613341383929 
+
+xmin ymin xmax ymax: 458 670 497 760
+classId: 1
+score: 0.5202942933509249 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402934912460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935012460.jpg-------------
+detectResult: 7
+final result: 5
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935012460.jpg
+number of box: 5
+xmin ymin xmax ymax: 227 498 257 560
+classId: 0
+score: 0.6497806894723406 
+
+xmin ymin xmax ymax: 460 672 494 778
+classId: 1
+score: 0.548150665383715 
+
+xmin ymin xmax ymax: 416 520 444 562
+classId: 0
+score: 0.537942052118224 
+
+xmin ymin xmax ymax: 506 674 540 771
+classId: 1
+score: 0.5310225242903437 
+
+xmin ymin xmax ymax: 412 432 444 532
+classId: 1
+score: 0.50585181400106 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935012460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935112460.jpg-------------
+detectResult: 5
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935112460.jpg
+number of box: 3
+xmin ymin xmax ymax: 225 497 259 564
+classId: 0
+score: 0.6745994624742807 
+
+xmin ymin xmax ymax: 272 768 305 847
+classId: 1
+score: 0.5480026684707847 
+
+xmin ymin xmax ymax: 225 774 257 855
+classId: 1
+score: 0.5044745862796578 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935112460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935162463.jpg-------------
+detectResult: 6
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935162463.jpg
+number of box: 4
+xmin ymin xmax ymax: 226 499 259 564
+classId: 0
+score: 0.7009570488794138 
+
+xmin ymin xmax ymax: 416 518 446 563
+classId: 0
+score: 0.5902864398926383 
+
+xmin ymin xmax ymax: 273 779 303 865
+classId: 1
+score: 0.5554180903982006 
+
+xmin ymin xmax ymax: 414 433 447 539
+classId: 1
+score: 0.5233541555848019 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935162463.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935262460.jpg-------------
+detectResult: 6
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935262460.jpg
+number of box: 4
+xmin ymin xmax ymax: 223 513 259 567
+classId: 0
+score: 0.7221200103974684 
+
+xmin ymin xmax ymax: 1121 794 1151 848
+classId: 0
+score: 0.6168122662310898 
+
+xmin ymin xmax ymax: 416 520 446 562
+classId: 0
+score: 0.5512365526376575 
+
+xmin ymin xmax ymax: 366 528 399 565
+classId: 0
+score: 0.5153438969385418 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935262460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935362460.jpg-------------
+detectResult: 6
+final result: 6
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935362460.jpg
+number of box: 6
+xmin ymin xmax ymax: 181 504 213 559
+classId: 0
+score: 0.6802350591247985 
+
+xmin ymin xmax ymax: 219 527 257 567
+classId: 0
+score: 0.6261505399147513 
+
+xmin ymin xmax ymax: 1119 780 1151 839
+classId: 1
+score: 0.5726397022388322 
+
+xmin ymin xmax ymax: 324 781 352 867
+classId: 1
+score: 0.5559870672090953 
+
+xmin ymin xmax ymax: 790 703 821 778
+classId: 1
+score: 0.5406397963258406 
+
+xmin ymin xmax ymax: 365 527 400 568
+classId: 0
+score: 0.5109270680733644 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935362460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935412467.jpg-------------
+detectResult: 6
+final result: 6
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935412467.jpg
+number of box: 6
+xmin ymin xmax ymax: 180 503 213 564
+classId: 0
+score: 0.6693435798402463 
+
+xmin ymin xmax ymax: 226 772 256 863
+classId: 1
+score: 0.5654909066397295 
+
+xmin ymin xmax ymax: 365 527 400 567
+classId: 0
+score: 0.5595520245639172 
+
+xmin ymin xmax ymax: 742 726 772 809
+classId: 1
+score: 0.546528455001678 
+
+xmin ymin xmax ymax: 219 531 256 567
+classId: 0
+score: 0.5262110905922482 
+
+xmin ymin xmax ymax: 1119 773 1150 845
+classId: 1
+score: 0.5007975648320224 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935412467.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935512460.jpg-------------
+detectResult: 4
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935512460.jpg
+number of box: 4
+xmin ymin xmax ymax: 365 526 399 562
+classId: 0
+score: 0.702227525480842 
+
+xmin ymin xmax ymax: 743 760 773 857
+classId: 1
+score: 0.5570333664684469 
+
+xmin ymin xmax ymax: 554 785 588 855
+classId: 0
+score: 0.5546195322552699 
+
+xmin ymin xmax ymax: 227 789 255 859
+classId: 1
+score: 0.5457868440024386 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935512460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935612460.jpg-------------
+detectResult: 4
+final result: 3
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935612460.jpg
+number of box: 3
+xmin ymin xmax ymax: 367 528 398 563
+classId: 0
+score: 0.6136090931846309 
+
+xmin ymin xmax ymax: 788 785 821 857
+classId: 0
+score: 0.5398814067543749 
+
+xmin ymin xmax ymax: 789 778 821 845
+classId: 1
+score: 0.5249841470000467 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935612460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935662460.jpg-------------
+detectResult: 5
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935662460.jpg
+number of box: 4
+xmin ymin xmax ymax: 367 528 398 563
+classId: 0
+score: 0.5566028253477643 
+
+xmin ymin xmax ymax: 180 499 211 562
+classId: 0
+score: 0.5206309761522226 
+
+xmin ymin xmax ymax: 788 775 822 854
+classId: 1
+score: 0.5144188652640271 
+
+xmin ymin xmax ymax: 273 831 302 891
+classId: 0
+score: 0.5043973938967695 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935662460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935762460.jpg-------------
+detectResult: 2
+final result: 2
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935762460.jpg
+number of box: 2
+xmin ymin xmax ymax: 317 528 357 564
+classId: 0
+score: 0.5169895153842142 
+
+xmin ymin xmax ymax: 368 531 398 565
+classId: 0
+score: 0.5110888972220573 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935762460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935912460.jpg-------------
+detectResult: 4
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935912460.jpg
+number of box: 4
+xmin ymin xmax ymax: 695 655 726 720
+classId: 0
+score: 0.5350725215274216 
+
+xmin ymin xmax ymax: 367 536 397 570
+classId: 0
+score: 0.5289892289604281 
+
+xmin ymin xmax ymax: 368 568 396 599
+classId: 0
+score: 0.5233646443769182 
+
+xmin ymin xmax ymax: 271 559 309 612
+classId: 0
+score: 0.5039822858150372 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935912460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402936012460.jpg-------------
+detectResult: 4
+final result: 4
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402936012460.jpg
+number of box: 4
+xmin ymin xmax ymax: 367 571 396 604
+classId: 0
+score: 0.5838646615199435 
+
+xmin ymin xmax ymax: 271 560 309 604
+classId: 0
+score: 0.5831142643772808 
+
+xmin ymin xmax ymax: 84 660 117 708
+classId: 0
+score: 0.523594786847578 
+
+xmin ymin xmax ymax: 136 661 163 710
+classId: 0
+score: 0.5005107215442318 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402936012460.jpg
+-------------/home/qibin/scene1/cam_test/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402936112460.jpg-------------
+detectResult: 5
+final result: 5
+
+file name: n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402936112460.jpg
+number of box: 5
+xmin ymin xmax ymax: 272 567 307 607
+classId: 0
+score: 0.6120762661306809 
+
+xmin ymin xmax ymax: 932 693 963 756
+classId: 0
+score: 0.5735937068824714 
+
+xmin ymin xmax ymax: 367 570 396 602
+classId: 0
+score: 0.5708359060920839 
+
+xmin ymin xmax ymax: 931 685 962 746
+classId: 1
+score: 0.5296281500589617 
+
+xmin ymin xmax ymax: 885 681 916 750
+classId: 1
+score: 0.5227563912869188 
+
+result/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402936112460.jpg
