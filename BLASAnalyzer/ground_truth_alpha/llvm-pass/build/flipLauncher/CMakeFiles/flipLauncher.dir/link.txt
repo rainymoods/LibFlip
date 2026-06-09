@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -fno-rtti -shared  -o libflipLauncher.so CMakeFiles/flipLauncher.dir/flipLauncher.cpp.o 

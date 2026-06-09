@@ -1,10 +1,10 @@
-# Artifacts for "Paper Title" (ACM CCS 2026)
+# Artifacts for IEEE S&P 2027
 
-This repository contains the functional evaluation artifacts, empirical datasets, and source code accompanying our paper "Paper Title", submitted to ACM CCS 2026.
+The artifacts for the paper "Undermining Multimodal Perception in Autonomous Driving Systems via Shared Library Fault Injection", submitted to IEEE S&P 2027.
 
 ## 1. Structural Overview
 
-The software artifacts are modularized into five primary subdirectories, corresponding to the specific technical components detailed in the manuscript:
+According to Appendix B, this repository includes the following source code and evaluation results:
 
 * `AppAnalyzer/`: Implements the In-vehicle Application Analysis Module (§4.2) and the CAN Traffic Translation Module (§4.4).
 * `AutoTrigger/`: Implements the Dynamic Command Trigger Module (§4.3).

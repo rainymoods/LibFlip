@@ -1,0 +1,1 @@
+/usr/bin/f95   -fPIC -fno-tree-vectorize CMakeFiles/sblat1.dir/sblat1.f.o -o sblat1  -Wl,-rpath,/home/qibin/SGXBLAS/attack/source/ground_truth/openblas/build/lib ../lib/libopenblas.so.0.3 -lm 
