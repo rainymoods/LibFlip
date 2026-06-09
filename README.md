@@ -6,27 +6,77 @@ The artifacts for the paper "Undermining Multimodal Perception in Autonomous Dri
 
 According to Appendix B, this repository includes the following source code and evaluation results:
 
-* `AppAnalyzer/`: Implements the In-vehicle Application Analysis Module (§4.2) and the CAN Traffic Translation Module (§4.4).
-* `AutoTrigger/`: Implements the Dynamic Command Trigger Module (§4.3).
-* `RealWorldPOC/`: Contains the verification scripts for the Remote Real-time Vehicle Status Eavesdropping (§6.1) and Malicious Vehicle Control Commands Injection (§6.2).
-* `Results/`: Aggregates the raw statistical telemetry and log files for the CAN reverse engineering and traffic hijacking benchmarks.
-* `TrafficCollector/`: Contains the low-level firmware utilities for sniffing CAN messages from physical pinouts and decoding the captured traffic.
+* `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Instruction Identification**.
+* `DRAMScanner/`: The source code employed during the memory profiling in **Section 4.2 Online End-to-End Fault Injection Attack**.
+* `MemScanRes/`: The identified flippable memory bit sample in the Micron DRAM module shown in **Section 5.3 The Memory Bit Flip Results**.
+* `ModelAtkRes/`: The perception results of different object detection models presented in **Section 5.4 ADS Perception System Attack Results**.
 
-## 2. Dependency and Environment Specifications
+## 2. Artifact Details
 
-### 2.1 Hardware Requirements
-* Intercepted IVI hardware or a validated target emulation testbed (for RealWorldPOC execution).
-* Standard CAN-to-USB interface hardware (for TrafficCollector deployment).
+### 2.1 BLASAnalyzer
+* **Introduction:**
 
-### 2.2 Software Prerequisites
-The static analysis component requires the following standard toolchains:
-* Oracle Java Development Kit (JDK 11)
-* Android Software Development Kit (SDK, API Level 32)
+  ​	This code compiles the original `OpenBLAS` source code into the intermediate representation for analysis, identifies branch instructions and performs semantic inversion on them, and then recompiles the modified code into patched libraries for offline evaluation of attack effects on ADS perception systems.
 
-## 3. Step-by-Step Replication Guidance
+* **Prerequisites:**
 
-### 3.1 Component: AppAnalyzer
-Goal: To ingest target IVI applications, perform backward program slicing, and correlate application-level invocation logs with concurrent CAN traffic sequences.
+  ​	The `OpenBLAS` codebase.
+  ​	`gcc 11.x`, `clang 12.x`, `cmake 3.16.0`
 
-1. Parameter Configuration: Update the static properties in `com/ivihunter/SootConfig.java` to define the baseline paths for the targeted APK inputs.
-2. Execution: Compile and execute the main pipeline entry point by invoking: `com/ivihunter/main/Main.java`.
+* **Description of sub-folders:**
+
+  * `ground_truth/:`The code for analyzing *driver layer* SGEMM functions in `OpenBLAS`.
+  * `ground_truth/:`The code for analyzing *kernel layer* SGEMM functions in `OpenBLAS`.
+
+* **Quick Starts:**
+
+​			Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
+
+### 2.2 DRAMScanner
+
+- **Introduction:**
+
+​			This tool is designed to scan the DRAM for flippable bit information, including physical addresses, DRAM locations, and flip directions.
+
+- **Prerequisites:**
+
+​			`g++ 8.x`, `cmake 3.14.x`
+
+- **Quick Starts:**
+
+​			Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
+
+### 2.3 MemScanRes
+
+- **Introduction:**
+
+​			Results of a 768 MB memory scan on the Micron DRAM module, including the information of flippable memory bits about their physical addresses, page offsets, DRAM locations, and flip directions of flippable memory bits.
+
+- **Tips:**
+
+​			To facilitate analysis, the results are partitioned into multiple files, each containing data for a 128 MB memory region.
+
+### 2.4 ModelAtkRes
+
+- **Introduction:**
+
+​			LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting all identified branch instructions in the SGEMM functions. The resulting attack effects include perception failures, system anomalies, and ineffective attacks.
+
+- **Tips:**
+
+​	for , just sample results on a single scene
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

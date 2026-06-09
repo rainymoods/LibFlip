@@ -4,7 +4,7 @@ This tool is used to identify branch instructions within the `sgemm_kernel` and 
 
 The core code for instruction flipping is stored in `llvm-pass/flipBranches` and `llvm-pass/flipLauncher`.
 
-# Tips for Install
+# Tips for Getting Started
 
 1. Replace the Makefile in the current directory: substitute `XXXX` with your own path.
 
