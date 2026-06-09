@@ -1,0 +1,12 @@
+-------------/home/qibin/scene1/cam/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg-------------
+Traceback (most recent call last):
+  File "/home/qibin/SGXBLAS/caffe-yolox/caffe_yolox/yolox_demo_caffe.py", line 245, in <module>
+    detect(os.path.join(folder_path, f))
+  File "/home/qibin/SGXBLAS/caffe-yolox/caffe_yolox/yolox_demo_caffe.py", line 193, in detect
+    predbox = postprocess(out, img_h, img_w)
+  File "/home/qibin/SGXBLAS/caffe-yolox/caffe_yolox/yolox_demo_caffe.py", line 143, in postprocess
+    ce_val = sigmoid(ce[h * mapSize[index][1] + w])
+  File "/home/qibin/SGXBLAS/caffe-yolox/caffe_yolox/yolox_demo_caffe.py", line 107, in sigmoid
+    return 1 / (1 + exp(-x))
+OverflowError: math range error
+returncode:1
