@@ -36,15 +36,15 @@ According to **Appendix B Open Science** in the paper, this repository includes 
 
 - **Introduction:**
 
-​			This tool is designed to scan the DRAM for flippable bit information, including physical addresses, DRAM locations, and flip directions.
+  ​	This tool is designed to scan the DRAM for flippable bit information, including physical addresses, DRAM locations, and flip directions.
 
 - **Prerequisites:**
 
-​			`g++ 8.x`, `cmake 3.14.x`
+  ​    `g++ 8.x`, `cmake 3.14.x`
 
 - **Quick Starts:**
 
-​			Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
+  ​    Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
 
 ### 2.3 MemScanRes
 
