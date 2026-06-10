@@ -66,8 +66,8 @@ According to **Appendix B Open Science** in the paper, this repository includes 
 
   - `caffe-yolox/:` Perception results of attacks on the `Caffe-based YOLOX3D` model.
 
-    - `auto_results:` Perception results under the semantic inversion of 116 branch instructions in the `interface layer` and `driver layer` SGEMM functions. *Each sub-file corresponds to the attack results obtained by flipping a single branch instruction*.
-    - `auto_kernel_results:` Perception results under the semantic inversion of 23 branch instructions identified in the `kernel layer` SGEMM functions. *Each sub-file corresponds to the attack results obtained by flipping a single branch instruction.*
+    - `auto_results:` Perception results under the semantic inversion of 116 branch instructions in the `interface layer` and `driver layer` SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction.
+    - `auto_kernel_results:` Perception results under the semantic inversion of 23 branch instructions identified in the `kernel layer` SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction.
 
   - `torch-yolox/:` Perception results of attacks on the `PyTorch-based YOLOX3D` model.
 
