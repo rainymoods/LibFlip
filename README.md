@@ -50,17 +50,17 @@ According to **Appendix B Open Science** in the paper, this repository includes 
 
 - **Introduction:**
 
-​			Results of a 768 MB memory scan on the Micron DRAM module, including the information of flippable memory bits about their physical addresses, page offsets, DRAM locations, and flip directions of flippable memory bits.
+  ​    Results of a 768 MB memory scan on the Micron DRAM module, including the information of flippable memory bits about their physical addresses, page offsets, DRAM locations, and flip directions of flippable memory bits.
 
 - **Tips:**
 
-​			To facilitate analysis, the results are partitioned into multiple files, each containing data for a 128 MB memory region.
+  ​    To facilitate analysis, the results are partitioned into multiple files, each containing data for a 128 MB memory region.
 
 ### 2.4 ModelAtkRes
 
 - **Introduction:**
 
-​			LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting all identified branch instructions in the SGEMM functions. The resulting attack effects include perception failures, system anomalies, and ineffective attacks, as discussed in TABLE 6 in the paper.
+  ​    LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting all identified branch instructions in the SGEMM functions. The resulting attack effects include perception failures, system anomalies, and ineffective attacks, as discussed in TABLE 6 in the paper.
 
 - **Description of sub-folders:**
 
@@ -79,7 +79,7 @@ According to **Appendix B Open Science** in the paper, this repository includes 
 
 - **Tips:**
 
-​			Given the complexity of the full evaluation results, here we provide the perception results of the models on a single nuScenes scene to facilitate understanding.
+  ​    Given the complexity of the full evaluation results, here we provide the perception results of the models on a single nuScenes scene to facilitate understanding.
 
 
 
