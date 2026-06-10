@@ -4,7 +4,7 @@ The artifacts for the paper **"Undermining Multimodal Perception in Autonomous D
 
 ## 1. Structural Overview
 
-According to **Appendix B Open Science**, this repository includes the following source code and evaluation results:
+According to **Appendix B Open Science** in the paper, this repository includes the following source code and evaluation results:
 
 * `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Instruction Identification**.
 * `DRAMScanner/`: The source code employed during the memory profiling in **Section 4.2 Online End-to-End Fault Injection Attack**.
@@ -30,7 +30,7 @@ According to **Appendix B Open Science**, this repository includes the following
 
 * **Quick Starts:**
 
-​			Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
+  ​		Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
 
 ### 2.2 DRAMScanner
 
