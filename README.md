@@ -1,10 +1,10 @@
 # Artifacts for IEEE S&P 2027
 
-The artifacts for the paper "Undermining Multimodal Perception in Autonomous Driving Systems via Shared Library Fault Injection", submitted to IEEE S&P 2027.
+The artifacts for the paper **"Undermining Multimodal Perception in Autonomous Driving Systems via Shared Library Fault Injection"**, submitted to IEEE S&P 2027.
 
 ## 1. Structural Overview
 
-According to Appendix B, this repository includes the following source code and evaluation results:
+According to **Appendix B Open Science**, this repository includes the following source code and evaluation results:
 
 * `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Instruction Identification**.
 * `DRAMScanner/`: The source code employed during the memory profiling in **Section 4.2 Online End-to-End Fault Injection Attack**.
@@ -21,7 +21,7 @@ According to Appendix B, this repository includes the following source code and 
 * **Prerequisites:**
 
   ​	The `OpenBLAS` codebase.
-  ​	`gcc 11.x`, `clang 12.x`, `cmake 3.16.0`
+  ​	`gcc 11.x`, `clang 12.x`, `cmake 3.16.x`
 
 * **Description of sub-folders:**
 
@@ -60,7 +60,7 @@ According to Appendix B, this repository includes the following source code and 
 
 - **Introduction:**
 
-​			LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting all identified branch instructions in the SGEMM functions. The resulting attack effects include perception failures, system anomalies, and ineffective attacks.
+​			LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting all identified branch instructions in the SGEMM functions. The resulting attack effects include perception failures, system anomalies, and ineffective attacks, as discussed in TABLE 6 in the paper.
 
 - **Description of sub-folders:**
 
