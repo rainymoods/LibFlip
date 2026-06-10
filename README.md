@@ -60,14 +60,14 @@ According to **Appendix B Open Science** in the paper, this repository includes 
 
 - **Introduction:**
 
-  ​    LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting all identified branch instructions in the SGEMM functions. The resulting attack effects include perception failures, system anomalies, and ineffective attacks, as discussed in TABLE 6 in the paper.
+  ​    LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting 139 branch instructions in the SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction, while the attack effects include perception failures, system anomalies, and ineffective attacks.  
 
 - **Description of sub-folders:**
 
   - `caffe-yolox/:` Perception results of attacks on the `Caffe-based YOLOX3D` model.
 
-    - `auto_results:` Perception results under the semantic inversion of all branch instructions identified in the `interface layer` and `driver layer` SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction.
-    - `auto_kernel_results:` Perception results under the semantic inversion of all branch instructions identified in the `kernel layer` SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction.
+    - `auto_results:` Perception results under the semantic inversion of 116 branch instructions in the `interface layer` and `driver layer` SGEMM functions. *Each sub-file corresponds to the attack results obtained by flipping a single branch instruction*.
+    - `auto_kernel_results:` Perception results under the semantic inversion of all branch instructions identified in the `kernel layer` SGEMM functions. *Each sub-file corresponds to the attack results obtained by flipping a single branch instruction.*
 
   - `torch-yolox/:` Perception results of attacks on the `PyTorch-based YOLOX3D` model.
 
