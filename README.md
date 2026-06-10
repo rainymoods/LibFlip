@@ -25,8 +25,8 @@ According to Appendix B, this repository includes the following source code and 
 
 * **Description of sub-folders:**
 
-  * `ground_truth/:`The code for analyzing *driver layer* SGEMM functions in `OpenBLAS`.
-  * `ground_truth/:`The code for analyzing *kernel layer* SGEMM functions in `OpenBLAS`.
+  * `ground_truth/:` The code for analyzing `interface layer` and `driver layer` SGEMM functions in `OpenBLAS` (i.e., the *cblas_sgemm, sgemm_nn, sgemm_nt, sgemm_tn, and sgemm_tt* functions).
+  * `ground_truth/:` The code for analyzing `kernel layer` SGEMM functions in `OpenBLAS`(i.e., the *sgemm_kernel and sgemm_beta* functions).
 
 * **Quick Starts:**
 
@@ -62,9 +62,24 @@ According to Appendix B, this repository includes the following source code and 
 
 ​			LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting all identified branch instructions in the SGEMM functions. The resulting attack effects include perception failures, system anomalies, and ineffective attacks.
 
+- **Description of sub-folders:**
+
+  - `caffe-yolox/:` Perception results of attacks on the `Caffe-based YOLOX3D` model.
+
+    - `auto_results:` Perception results under the semantic inversion of all branch instructions identified in the `interface layer` and `driver layer` SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction.
+    - `auto_kernel_results:` Perception results under the semantic inversion of all branch instructions identified in the `kernel layer` SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction.
+
+  - `torch-yolox/:` Perception results of attacks on the `PyTorch-based YOLOX3D` model.
+
+    ​		The directory structure and file descriptions are identical to those in the `caffe-yolox/` folder.
+
+  - `torch-ssd/:` Perception results of attacks on the `PyTorch-based SSD` model.
+
+    ​		The directory structure and file descriptions are identical to those in the `caffe-yolox/` folder.
+
 - **Tips:**
 
-​	for , just sample results on a single scene
+​			Given the complexity of the full evaluation results, here we provide the perception results of the models on a single nuScenes scene to facilitate understanding.
 
 
 
