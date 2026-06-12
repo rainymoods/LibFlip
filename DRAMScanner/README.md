@@ -1,6 +1,6 @@
 # FlipHammer
 
-> A Rowhammer fuzzing framework for discovering TRR-bypassing attack patterns on DDR4 memory, adapted from [Blacksmith](https://github.com/comsec-group/blacksmith) by ETH Zurich.
+> A Rowhammer fuzzing framework for discovering TRR-bypassing attack patterns on DDR4 memory, built on [Blacksmith](https://github.com/comsec-group/blacksmith).
 
 ## Overview
 
@@ -8,7 +8,6 @@ FlipHammer systematically explores Rowhammer aggression parameters to find patte
 
 ## Project Structure
 
-```
 ├── src/
 │   ├── Blacksmith.cpp              # Entry point
 │   ├── Forges/
@@ -27,7 +26,6 @@ FlipHammer systematically explores Rowhammer aggression parameters to find patte
 ├── include/                        # Headers
 ├── external/                       # CMake dependencies
 └── docker/                         # Docker build environment
-```
 
 ## Build
 
