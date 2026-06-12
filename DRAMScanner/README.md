@@ -49,7 +49,7 @@ make -j$(nproc)
 | Flag                    | Description                                                  |
 | ----------------------- | ------------------------------------------------------------ |
 | `--dimm-id 1`           | Arbitrary identifier for logging / output filenames          |
-| `--runtime-limit 21600` | Fuzzing duration in seconds (6 hours)                        |
+| `--runtime-limit 21600` | Fuzzing duration in seconds                                  |
 | `--ranks 2`             | Number of ranks on the target DIMM (affects bank/row mapping) |
 | `--sweeping`            | After fuzzing, sweep 256 MB using the best pattern found     |
 
