@@ -43,7 +43,7 @@ make -j$(nproc)
 ### 1. Fuzzing (Pattern Discovery)
 
 ```bash
-sudo ./FlipHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 --sweeping
+./FlipHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 --sweeping
 ```
 
 | Flag                    | Description                                                  |
@@ -61,7 +61,7 @@ sudo ./FlipHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 --sweeping
 ### 2. Replay (Expanded Scanning)
 
 ```bash
-sudo ./FlipHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 \
+./FlipHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 \
              -y 4a2d10a4-6a3a-4aba-ba2a-459f0f294ac0 \
              -j ./fuzz-summary.json \
              -w
