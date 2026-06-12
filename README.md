@@ -26,7 +26,7 @@ According to **Appendix B Open Science** in the paper, this repository includes 
 * **Description of sub-folders:**
 
   * `ground_truth/:` The code for analyzing `interface layer` and `driver layer` SGEMM functions in `OpenBLAS` (i.e., the *cblas_sgemm, sgemm_nn, sgemm_nt, sgemm_tn, and sgemm_tt* functions).
-  * `ground_truth/:` The code for analyzing `kernel layer` SGEMM functions in `OpenBLAS`(i.e., the *sgemm_kernel and sgemm_beta* functions).
+  * `ground_truth_alpha/:` The code for analyzing `kernel layer` SGEMM functions in `OpenBLAS`(i.e., the *sgemm_kernel and sgemm_beta* functions).
 
 * **Quick Starts:**
 
