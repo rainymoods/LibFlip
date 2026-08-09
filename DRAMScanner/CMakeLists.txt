@@ -133,22 +133,22 @@ if (BLACKSMITH_ENABLE_JITTING)
     )
 endif ()
 
-# === FlipHammer ============================================================
+# === Hammer ============================================================
 
 add_executable(
-        FlipHammer
+        Hammer
         include/Blacksmith.hpp
         src/Blacksmith.cpp
 )
 
 target_compile_definitions(
-        FlipHammer
+        Hammer
         PRIVATE
         GIT_COMMIT_HASH="${GIT_COMMIT_HASH}"
 )
 
 target_link_libraries(
-        FlipHammer
+        Hammer
         PRIVATE
         bs
         argagg

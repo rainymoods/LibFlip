@@ -8,41 +8,6 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-size_t Memory::get_physical_address(void* virtual_addr)
-{
-  size_t addr = (size_t)virtual_addr;
-  int fd = open("/proc/self/pagemap", O_RDONLY);
-  if (fd < 0)
-  {
-    printf("open '/proc/self/pagemap' failed!\n");
-    return 0;
-  }
-  size_t pagesize = getpagesize();
-  size_t offset = (addr / pagesize) * sizeof(uint64_t);
-  if (lseek(fd, offset, SEEK_SET) < 0)
-  {
-    printf("lseek() failed!\n");
-    close(fd);
-    return 0;
-  }
-  uint64_t info;
-  if (read(fd, &info, sizeof(uint64_t)) != sizeof(uint64_t))
-  {
-    printf("read() failed!\n");
-    close(fd);
-    return 0;
-  }
-  if ((info & (((uint64_t)1) << 63)) == 0)
-  {
-    printf("page is not present!\n");
-    close(fd);
-    return 0;
-  }
-  size_t frame = info & ((((uint64_t)1) << 55) - 1);
-  size_t phy = frame * pagesize + addr % pagesize;
-  close(fd);
-  return phy;
-}
 
 /// Allocates a MEM_SIZE bytes of memory by using super or huge pages.
 void Memory::allocate_memory(size_t mem_size) {
@@ -87,7 +52,6 @@ void Memory::allocate_memory(size_t mem_size) {
   // initialize memory with random but reproducible sequence of numbers
   initialize(DATA_PATTERN::RANDOM);
 
-  printf("Start address:0x%lx\n", get_physical_address((void*)start_address));
 }
 
 

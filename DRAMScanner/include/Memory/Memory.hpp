@@ -63,8 +63,6 @@ class Memory {
 
   std::string get_flipped_rows_text_repr();
 
-  static size_t get_physical_address(void* virtual_addr);
-
 };
 
 
