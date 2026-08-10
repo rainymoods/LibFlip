@@ -1,4 +1,4 @@
-# Artifacts for IEEE S&P 2027
+# Artifacts for USENIX Security 2027
 
 The artifacts for the paper **"Undermining Multimodal Perception in Autonomous Driving Systems via Shared Library Fault Injection"**, submitted to USENIX Security 2027.
 
