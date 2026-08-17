@@ -4,6 +4,14 @@
 
 DRAMHammer systematically explores Rowhammer aggression parameters to discover hammering patterns that defeat Target Row Refresh (TRR) on modern DDR4 modules. These patterns are subsequently utilized to locate exploitable bit flips in DRAM and induce bit flips in vulnerable instructions.
 
+## Configuration
+
+The DRAM address mapping functions in `src/Memory/DRAMAddr.cpp` are hardcoded for **Intel Core i7-6700**. For other microarchitectures:
+
+1. Using `../DRAMReverser` provided in the repertory to reverse-engineer the DRAM address functions.
+2. Update `load_known_functions()` in `src/Memory/DramAnalyzer.cpp`
+3. Fill in the correct mappings in `src/Memory/mat-gen.py`, regenerate, and update matrices in `src/Memory/DRAMAddr.cpp`
+
 ## Build
 
 ```bash
@@ -70,14 +78,6 @@ make -j$(nproc)
 ├── external/                       # CMake dependencies
 └── docker/                         # Docker build environment
 ```
-
-## Hardware Configuration
-
-The DRAM address mapping functions in `src/Memory/DRAMAddr.cpp` are hardcoded for **Intel Core i7-6700**. For other microarchitectures:
-
-1. Reverse-engineer the DRAM address functions (use [DRAMA](https://github.com/IAIK/drama) or [TRResspass' DRAMA](https://github.com/vusec/trrespass/tree/master/drama))
-2. Update `load_known_functions()` in `src/Memory/DramAnalyzer.cpp`
-3. Fill in the correct mappings in `src/Memory/mat-gen.py`, regenerate, and update matrices in `src/Memory/DRAMAddr.cpp`
 
 ## Notes
 
