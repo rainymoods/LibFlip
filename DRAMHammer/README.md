@@ -37,7 +37,7 @@ make -j$(nproc)
 
 ```bash
 ./DRAMHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 \
-             -y 4a2d10a4-6a3a-4aba-ba2a-459f0f294ac0 \
+             -y 72624f56-4327-48bb-8b1a-789b06796a88 \
              -j ./fuzz-summary.json \
              -w
 ```

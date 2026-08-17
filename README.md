@@ -8,7 +8,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 * `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Bit Identification**.
 * `DRAMHammer/`: The source code employed during the memory profiling in **Section 4.2 Online End-to-End Fault Injection Attack**.
-* `MemScanRes/`: The identified flippable memory bit sample in the Micron DRAM module shown in **Section 5.3 The Memory Bit Flip Results**.
+* `MemScanRes/`: The identified effective hammering patterns and flippable memory bit sample shown in **Section 5.3 The Memory Bit Flip Results**.
 * `ModelAtkRes/`: The perception results of different object detection models presented in **Section 5.4 ADS Perception System Attack Results**.
 
 ## 2. Artifact Details
@@ -50,11 +50,18 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​    Results of a 768 MB memory scan on the Micron DRAM module, including the information of flippable memory bits about their physical addresses, page offsets, DRAM locations, and flip directions of flippable memory bits.
+  ​    The identified representative effective hammering patterns and the located flippable bits within 768 MB of Micron DRAM.
 
+- **Description of sub-folders:**
+
+  * `hammer_patterns/:` Representative memory hammering patterns identified by DRAMHammer.
+  * `hammer_results/:` Results of a 768 MB memory scan on the Micron DRAM module, including the information of flippable memory bits about their physical addresses, page offsets, DRAM locations, and flip directions of flippable memory bits.
+  
 - **Tips:**
 
   ​    To facilitate analysis, the results are partitioned into multiple files, each containing data for a 128 MB memory region.
+  
+  
 
 ### 2.4 ModelAtkRes
 
