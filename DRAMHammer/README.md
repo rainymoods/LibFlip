@@ -1,10 +1,10 @@
-# FlipHammer
+# DRAMHammer
 
 A Rowhammer fuzzing framework for discovering TRR-bypassing attack patterns on DDR4 memory, built on [Blacksmith](https://github.com/comsec-group/blacksmith).
 
 ## Overview
 
-FlipHammer systematically explores Rowhammer aggression parameters to find patterns that defeat Target Row Refresh (TRR) on modern DDR4 modules. After discovering effective patterns, it performs large-scale memory sweeps to locate exploitable bit flips.
+DRAMHammer systematically explores Rowhammer aggression parameters to find patterns that defeat Target Row Refresh (TRR) on modern DDR4 modules. After discovering effective patterns, it performs large-scale memory sweeps to locate exploitable bit flips.
 
 ## Project Structure
 
@@ -43,7 +43,7 @@ make -j$(nproc)
 ### 1. Fuzzing (Pattern Discovery)
 
 ```bash
-./FlipHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 --sweeping
+./DRAMHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 --sweeping
 ```
 
 | Flag                    | Description                                                  |
@@ -61,7 +61,7 @@ make -j$(nproc)
 ### 2. Replay (Expanded Scanning)
 
 ```bash
-./FlipHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 \
+./DRAMHammer --dimm-id 1 --runtime-limit 21600 --ranks 2 \
              -y 4a2d10a4-6a3a-4aba-ba2a-459f0f294ac0 \
              -j ./fuzz-summary.json \
              -w
@@ -82,7 +82,3 @@ The DRAM address mapping functions in `src/Memory/DRAMAddr.cpp` are hardcoded fo
 1. Reverse-engineer the DRAM address functions (use [DRAMA](https://github.com/IAIK/drama) or [TRResspass' DRAMA](https://github.com/vusec/trrespass/tree/master/drama))
 2. Update `load_known_functions()` in `src/Memory/DramAnalyzer.cpp`
 3. Fill in the correct mappings in `src/Memory/mat-gen.py`, regenerate, and update matrices in `src/Memory/DRAMAddr.cpp`
-
-## License
-
-MIT License — Copyright (c) 2021 ETH Zurich. See [LICENSE](LICENSE).

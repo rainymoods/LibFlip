@@ -133,22 +133,22 @@ if (BLACKSMITH_ENABLE_JITTING)
     )
 endif ()
 
-# === Hammer ============================================================
+# === DRAMHammer ============================================================
 
 add_executable(
-        Hammer
+        DRAMHammer
         include/Blacksmith.hpp
         src/Blacksmith.cpp
 )
 
 target_compile_definitions(
-        Hammer
+        DRAMHammer
         PRIVATE
         GIT_COMMIT_HASH="${GIT_COMMIT_HASH}"
 )
 
 target_link_libraries(
-        Hammer
+        DRAMHammer
         PRIVATE
         bs
         argagg

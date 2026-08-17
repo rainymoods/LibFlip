@@ -7,7 +7,7 @@ The artifacts for the paper **"Undermining Multimodal Perception in Autonomous D
 According to **Open Science** in the paper, this repository includes the following source code and evaluation results:
 
 * `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Bit Identification**.
-* `DRAMScanner/`: The source code employed during the memory profiling in **Section 4.2 Online End-to-End Fault Injection Attack**.
+* `DRAMHammer/`: The source code employed during the memory profiling in **Section 4.2 Online End-to-End Fault Injection Attack**.
 * `MemScanRes/`: The identified flippable memory bit sample in the Micron DRAM module shown in **Section 5.3 The Memory Bit Flip Results**.
 * `ModelAtkRes/`: The perception results of different object detection models presented in **Section 5.4 ADS Perception System Attack Results**.
 
@@ -32,7 +32,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
   ​		Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
 
-### 2.2 DRAMScanner
+### 2.2 DRAMHammer
 
 - **Introduction:**
 
