@@ -1,33 +1,8 @@
 # DRAMHammer
 
-A Rowhammer fuzzing framework for discovering TRR-bypassing attack patterns on DDR4 memory, built on [Blacksmith](https://github.com/comsec-group/blacksmith).
-
 ## Overview
 
-DRAMHammer systematically explores Rowhammer aggression parameters to find patterns that defeat Target Row Refresh (TRR) on modern DDR4 modules. After discovering effective patterns, it performs large-scale memory sweeps to locate exploitable bit flips.
-
-## Project Structure
-
-```
-├── src/
-│   ├── Blacksmith.cpp              # Entry point
-│   ├── Forges/
-│   │   ├── FuzzyHammerer.cpp       # Fuzzing-based pattern discovery
-│   │   ├── ReplayingHammerer.cpp   # Replay known patterns
-│   │   └── TraditionalHammerer.cpp # Traditional Rowhammer
-│   ├── Fuzzer/                     # Core fuzzing engine
-│   │   ├── Aggressor.cpp
-│   │   ├── HammeringPattern.cpp
-│   │   ├── PatternBuilder.cpp
-│   │   └── ...
-│   └── Memory/
-│       ├── DRAMAddr.cpp            # DRAM address mapping (hardcoded for i7-6700)
-│       ├── DramAnalyzer.cpp
-│       └── mat-gen.py              # Matrix generator for address mapping
-├── include/                        # Headers
-├── external/                       # CMake dependencies
-└── docker/                         # Docker build environment
-```
+DRAMHammer systematically explores Rowhammer aggression parameters to discover hammering patterns that defeat Target Row Refresh (TRR) on modern DDR4 modules. These patterns are subsequently utilized to locate exploitable bit flips in DRAM and induce bit flips in vulnerable instructions.
 
 ## Build
 
@@ -73,7 +48,28 @@ make -j$(nproc)
 | `-j <file>` | Path to the `fuzz-summary.json`                 |
 | `-w`        | Enable sweeping mode                            |
 
-> To scan beyond the default 256 MB range, modify the memory range in `replay_patterns_brief()` inside `src/Blacksmith.cpp`.
+## Project Structure
+
+```
+├── src/
+│   ├── Blacksmith.cpp              # Entry point
+│   ├── Forges/
+│   │   ├── FuzzyHammerer.cpp       # Fuzzing-based pattern discovery
+│   │   ├── ReplayingHammerer.cpp   # Replay known patterns
+│   │   └── TraditionalHammerer.cpp # Traditional Rowhammer
+│   ├── Fuzzer/                     # Core fuzzing engine
+│   │   ├── Aggressor.cpp
+│   │   ├── HammeringPattern.cpp
+│   │   ├── PatternBuilder.cpp
+│   │   └── ...
+│   └── Memory/
+│       ├── DRAMAddr.cpp            # DRAM address mapping (hardcoded for i7-6700)
+│       ├── DramAnalyzer.cpp
+│       └── mat-gen.py              # Matrix generator for address mapping
+├── include/                        # Headers
+├── external/                       # CMake dependencies
+└── docker/                         # Docker build environment
+```
 
 ## Hardware Configuration
 
@@ -82,3 +78,7 @@ The DRAM address mapping functions in `src/Memory/DRAMAddr.cpp` are hardcoded fo
 1. Reverse-engineer the DRAM address functions (use [DRAMA](https://github.com/IAIK/drama) or [TRResspass' DRAMA](https://github.com/vusec/trrespass/tree/master/drama))
 2. Update `load_known_functions()` in `src/Memory/DramAnalyzer.cpp`
 3. Fill in the correct mappings in `src/Memory/mat-gen.py`, regenerate, and update matrices in `src/Memory/DRAMAddr.cpp`
+
+## Notes
+
+DRAMHammer builds upon Blacksmith and introduces additional attack strategies tailored to the characteristics of ADSs to improve attack effectiveness.
