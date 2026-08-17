@@ -6,30 +6,30 @@ The artifacts for the paper **"Undermining Multimodal Perception in Autonomous D
 
 According to **Open Science** in the paper, this repository includes the following source code and evaluation results:
 
-* `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Bit Identification**.
-* `DRAMHammer/`: The source code employed during the memory profiling in **Section 4.2 Online End-to-End Fault Injection Attack**.
-* `DRAMReverser/`: The source code and results of the DRAM address mapping function reverse engineering process in **Section 4.2 Online End-to-End Fault Injection Attack**.
-* `MemScanRes/`: The identified effective hammering patterns and flippable memory bit sample shown in **Section 5.3 The Memory Bit Flip Results**.
-* `ModelAtkRes/`: The perception results of different object detection models presented in **Section 5.4 ADS Perception System Attack Results**.
+- `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Bit Identification**.
+- `DRAMHammer/`: The source code employed for identifying effective hammering patterns and inducing bit flips in **Section 4.2 Online End-to-End Fault Injection Attack**.
+- `DRAMReverser/`: The source code and results of the DRAM address mapping function reverse engineering process in **Section 4.2 Online End-to-End Fault Injection Attack**.
+- `MemScanRes/`: The identified effective hammering patterns and flippable memory bit sample shown in **Section 5.3 The Memory Bit Flip Results**.
+- `ModelAtkRes/`: The perception results of different object detection models presented in **Section 5.4 ADS Perception System Attack Results**.
 
 ## 2. Artifact Details
 
 ### 2.1 BLASAnalyzer
-* **Introduction:**
+
+- **Introduction:**
 
   ​	This code compiles the original `OpenBLAS` source code into the intermediate representation for analysis, identifies branch instructions and performs semantic inversion on them, and then recompiles the modified code into patched libraries for offline evaluation of attack effects on ADS perception systems.
 
-* **Prerequisites:**
+- **Prerequisites:**
 
-  ​	The `OpenBLAS` codebase.
-  ​	`gcc 11.x`, `clang 12.x`, `cmake 3.16.x`
+  ​	The `OpenBLAS` codebase. 	`gcc 11.x`, `clang 12.x`, `cmake 3.16.x`
 
-* **Description of sub-folders:**
+- **Description of sub-folders:**
 
-  * `ground_truth/:` The code for analyzing `kernel layer` SGEMM functions in `OpenBLAS` (i.e., the *sgemm_kernel and sgemm_beta* functions).
-  * `ground_truth_alpha/:` The code for analyzing `interface layer` and `driver layer` SGEMM functions in `OpenBLAS` (i.e., the *cblas_sgemm, sgemm_nn, sgemm_nt, sgemm_tn, and sgemm_tt* functions).
+  - `ground_truth/:` The code for analyzing `kernel layer` SGEMM functions in `OpenBLAS` (i.e., the *sgemm_kernel and sgemm_beta* functions).
+  - `ground_truth_alpha/:` The code for analyzing `interface layer` and `driver layer` SGEMM functions in `OpenBLAS` (i.e., the *cblas_sgemm, sgemm_nn, sgemm_nt, sgemm_tn, and sgemm_tt* functions).
 
-* **Quick Starts:**
+- **Quick Starts:**
 
   ​		Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
 
@@ -37,7 +37,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​	This tool is designed to identify effective hammering patterns and trigger Rowhammer attacks on DRAM for tasks such as collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions).
+  ​	This tool is designed to identify effective hammering patterns and perform Rowhammer attacks on DRAM for tasks including collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions).
 
 - **Prerequisites:**
 
@@ -47,7 +47,22 @@ According to **Open Science** in the paper, this repository includes the followi
 
   ​    Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
 
-### 2.3 MemScanRes
+### 2.3 DRAMReverser
+
+- **Introduction:**
+
+  ​    Performing the DRAM address mapping function reverse engineering task.
+
+- **Description of sub-folders:**
+
+  - `code/:` The code for reverse-engineering the address mapping functions.
+  - `results/:` Results of a 768 MB memory scan on the Micron DRAM module, including the information of flippable memory bits about their physical addresses, page offsets, DRAM locations, and flip directions of flippable memory bits.
+
+- **Quick Starts:**
+
+  ​    Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
+
+### 2.4 MemScanRes
 
 - **Introduction:**
 
@@ -55,16 +70,14 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Description of sub-folders:**
 
-  * `hammer_patterns/:` Representative memory hammering patterns identified by DRAMHammer.
-  * `hammer_results/:` Results of a 768 MB memory scan on the Micron DRAM module, including the information of flippable memory bits about their physical addresses, page offsets, DRAM locations, and flip directions of flippable memory bits.
-  
+  - `hammer_patterns/:` Representative memory hammering patterns identified by DRAMHammer.
+  - `hammer_results/:` The results obtained by the analysis on the Intel Core i7-6700 CPU.
+
 - **Tips:**
 
   ​    To facilitate analysis, the results are partitioned into multiple files, each containing data for a 128 MB memory region.
-  
-  
 
-### 2.4 ModelAtkRes
+### 2.5 ModelAtkRes
 
 - **Introduction:**
 
@@ -88,6 +101,3 @@ According to **Open Science** in the paper, this repository includes the followi
 - **Tips:**
 
   ​    Given the complexity of the full evaluation results, here we provide the perception results of the models on a single `nuScenes` scene to facilitate understanding.
-
-
-
