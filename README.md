@@ -66,7 +66,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​    The identified representative effective hammering patterns and the located flippable bits within 768 MB of Micron DRAM presented in **Section 5.3 The Memory Bit Flip Results**.
+  ​    The identified representative effective hammering patterns and the located flippable bits within the Micron DRAM presented in **Section 5.3 The Memory Bit Flip Results**.
 
 - **Description of sub-folders:**
 
