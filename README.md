@@ -8,9 +8,9 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Bit Identification**.
 - `DRAMHammer/`: The source code employed for identifying effective hammering patterns and triggering bit flips in **Section 4.2 Online End-to-End Fault Injection Attack**.
-- `DRAMReverser/`: The source code and results of the DRAM address mapping function reverse engineering process in **Section 4.2 Online End-to-End Fault Injection Attack**.
-- `MemScanRes/`: The identified effective hammering patterns and flippable memory bit sample shown in **Section 5.3 The Memory Bit Flip Results**.
-- `ModelAtkRes/`: The perception results of different object detection models presented in **Section 5.4 ADS Perception System Attack Results**.
+- `DRAMReverser/`: The source code and results of the DRAM address mapping function reverse engineering in **Section 4.2 Online End-to-End Fault Injection Attack**.
+- `MemScanRes/`: The identified effective hammering patterns and flippable memory bit results shown in **Section 5.3 The Memory Bit Flip Results**.
+- `ModelAtkRes/`: The fault injection results of different object detection models presented in **Section 5.4 ADS Perception System Attack Results**.
 
 ## 2. Artifact Details
 
