@@ -37,7 +37,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​	This tool is designed to identify effective hammering patterns and trigger Rowhammer attacks on DRAM for tasks such as collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions). Detailed 
+  ​	This tool is designed to identify effective hammering patterns and trigger Rowhammer attacks on DRAM for tasks such as collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions). The detailed procedure is explained in **Section 4.2 Online End-to-End Fault Injection Attack**.
 
 - **Prerequisites:**
 
@@ -51,7 +51,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​    Performing the DRAM address mapping function reverse engineering task.
+  ​    Performing the DRAM address mapping function reverse engineering task shown in **Section 4.2 Online End-to-End Fault Injection Attack**.
 
 - **Description of sub-folders:**
 
@@ -66,7 +66,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​    The identified representative effective hammering patterns and the located flippable bits within 768 MB of Micron DRAM.
+  ​    The identified representative effective hammering patterns and the located flippable bits within 768 MB of Micron DRAM presented in **Section 5.3 The Memory Bit Flip Results**.
 
 - **Description of sub-folders:**
 
@@ -81,7 +81,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​    LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting 139 branch instructions in the SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction, while the attack effects include perception failures, system anomalies, and ineffective attacks.  
+  ​    LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting 139 branch instructions in the SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction, while the attack effects include perception failures, system anomalies, and ineffective attacks. More details are provided in  **Section 5.4 ADS Perception System Attack Results**.
 
 - **Description of sub-folders:**
 
