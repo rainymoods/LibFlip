@@ -18,7 +18,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​	This code compiles the original `OpenBLAS` source code into the intermediate representation for analysis, identifies branch instructions and performs semantic inversion on them, and then recompiles the modified code into patched libraries for offline evaluation of attack effects on ADS perception systems.
+  ​	This project compiles the original `OpenBLAS` source code into the intermediate representation for analysis, identifies branch instructions and performs semantic inversion on them, and then recompiles the modified code into patched libraries for offline evaluation of attack effects on ADS perception systems. Further details are discussed in **Section 4.1 Offline Vulnerable Bit Identification**.
 
 - **Prerequisites:**
 
@@ -37,7 +37,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​	This tool is designed to identify effective hammering patterns and trigger Rowhammer attacks on DRAM for tasks such as collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions).
+  ​	This tool is designed to identify effective hammering patterns and trigger Rowhammer attacks on DRAM for tasks such as collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions). Detailed 
 
 - **Prerequisites:**
 
