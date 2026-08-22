@@ -38,7 +38,7 @@ The root object is organized into the following two sections:
 
 - ``id``: UUID assigned to the mapping.
 - ``bank_no``: DRAM bank selected for the experiment.
-- ``min_row` / `max_row``: Lower and upper row numbers covered by the mapping.
+- ``min_row/max_row``: Lower and upper row numbers covered by the mapping.
 - ``aggressor_to_addr``: Associates each aggressor ID with its physical DRAM location, specified by bank, row, and column.
 - ``bit_flips``: Collection of bit-flip observations produced with this mapping.
 - ``reproducibility_score``: Score indicating the reproducibility of the result.
@@ -55,7 +55,7 @@ The root object is organized into the following two sections:
 
 #### 2.5 `code_jitter` element
 
-- ``fencing_strategy` / `flushing_strategy``: Fence and cache-flush insertion policies used during execution.
+- ``fencing_strategy/flushing_strategy``: Fence and cache-flush insertion policies used during execution.
 - ``num_aggs_for_sync``: Number of aggressors participating in synchronization.
 - ``pattern_sync_each_ref``: Indicates whether pattern synchronization is performed at every refresh interval.
 - ``total_activations``: Number of activations executed under this configuration.
@@ -63,7 +63,7 @@ The root object is organized into the following two sections:
 #### 2.6 `metadata` element
 
 - ``dimm_id``: Identifier of the DIMM involved in the run.
-- ``start` / `end``: Timestamps delimiting the beginning and end of the fuzzing session.
+- ``start/end``: Timestamps delimiting the beginning and end of the fuzzing session.
 - ``num_patterns``: Total number of patterns generated in the session.
 - ``memory_config``: Description of the tested memory configuration.
 
