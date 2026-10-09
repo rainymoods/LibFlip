@@ -1,6 +1,6 @@
-# Artifacts for TIFS
+# Artifacts
 
-The artifacts for the paper **"Undermining Multimodal Perception in Autonomous Driving Systems via Shared Library Fault Injection"**, submitted to TIFS.
+The artifacts for the paper **"Undermining Multimodal Perception in Autonomous Driving Systems via Shared Library Fault Injection"**.
 
 ## 1. Structural Overview
 
