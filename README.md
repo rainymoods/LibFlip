@@ -6,11 +6,11 @@ The artifacts for the paper **"Undermining Multimodal Perception in Autonomous D
 
 According to **Open Science** in the paper, this repository includes the following source code and evaluation results:
 
-- `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section 4.1 Offline Vulnerable Bit Identification**.
-- `DRAMHammer/`: The source code employed for identifying effective hammering patterns and triggering bit flips in **Section 4.2 Online End-to-End Fault Injection Attack**.
-- `DRAMReverser/`: The source code and results of the DRAM address mapping function reverse engineering in **Section 4.2 Online End-to-End Fault Injection Attack**.
-- `MemScanRes/`: The identified effective hammering patterns and flippable memory bit results shown in **Section 5.3 The Memory Bit Flip Results**.
-- `ModelAtkRes/`: The fault injection results of different object detection models presented in **Section 5.4 ADS Perception System Attack Results**.
+- `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section IV.A Offline Vulnerable Bit Identification**.
+- `DRAMHammer/`: The source code employed for identifying effective hammering patterns and triggering bit flips in **Section IV.B Online End-to-End Fault Injection Attack**.
+- `DRAMReverser/`: The source code and results of the DRAM address mapping function reverse engineering in **Section IV.B Online End-to-End Fault Injection Attack**.
+- `MemScanRes/`: The identified effective hammering patterns and flippable memory bit results shown in **Section V.C The Memory Bit Flip Results**.
+- `ModelAtkRes/`: The fault injection results of different object detection models presented in **Section V.D ADS Perception System Attack Results**.
 
 ## 2. Artifact Details
 
@@ -18,7 +18,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​	This project compiles the original `OpenBLAS` source code into the intermediate representation for analysis, identifies branch instructions and performs semantic inversion on them, and then recompiles the modified code into patched libraries for offline evaluation of attack effects on ADS perception systems. Further details are discussed in **Section 4.1 Offline Vulnerable Bit Identification**.
+  ​	This project compiles the original `OpenBLAS` source code into the intermediate representation for analysis, identifies branch instructions and performs semantic inversion on them, and then recompiles the modified code into patched libraries for offline evaluation of attack effects on ADS perception systems. Further details are discussed in **Section IV.A Offline Vulnerable Bit Identification**.
 
 - **Prerequisites:**
 
@@ -37,7 +37,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​	This tool is designed to identify effective hammering patterns and trigger Rowhammer attacks on DRAM for tasks such as collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions). The detailed procedure is explained in **Section 4.2 Online End-to-End Fault Injection Attack**.
+  ​	This tool is designed to identify effective hammering patterns and trigger Rowhammer attacks on DRAM for tasks such as collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions). The detailed procedure is explained in **Section IV.B Online End-to-End Fault Injection Attack**.
 
 - **Prerequisites:**
 
@@ -51,7 +51,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​    Performing the DRAM address mapping function reverse engineering task shown in **Section 4.2 Online End-to-End Fault Injection Attack**.
+  ​    Performing the DRAM address mapping function reverse engineering task shown in **Section IV.B Online End-to-End Fault Injection Attack**.
 
 - **Description of sub-folders:**
 
@@ -66,7 +66,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​    The identified representative effective hammering patterns and the located flippable bits within the Micron DRAM presented in **Section 5.3 The Memory Bit Flip Results**.
+  ​    The identified representative effective hammering patterns and the located flippable bits within the Micron DRAM presented in **Section V.C The Memory Bit Flip Results**.
 
 - **Description of sub-folders:**
 
@@ -81,7 +81,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
 - **Introduction:**
 
-  ​    LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting 139 branch instructions in the SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction, while the attack effects include perception failures, system anomalies, and ineffective attacks. More details are provided in  **Section 5.4 ADS Perception System Attack Results**.
+  ​    LibFlip's sample attack results on different object detection models implemented with different ML frameworks. For each model, the artifact provides attack results obtained by exploiting 139 branch instructions in the SGEMM functions. Each sub-file corresponds to the attack results obtained by flipping a single branch instruction, while the attack effects include perception failures, system anomalies, and ineffective attacks. More details are provided in  **Section V.D ADS Perception System Attack Results**.
 
 - **Description of sub-folders:**
 
