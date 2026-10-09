@@ -7,7 +7,6 @@ The artifacts for the paper **"Undermining Multimodal Perception in Autonomous D
 According to **Open Science** in the paper, this repository includes the following source code and evaluation results:
 
 - `BLASAnalyzer/`: The source code for identifying vulnerable instructions, as discussed in **Section IV.A Offline Vulnerable Bit Identification**.
-- `DRAMHammer/`: The source code employed for identifying effective hammering patterns and triggering bit flips in **Section IV.B Online End-to-End Fault Injection Attack**.
 - `DRAMReverser/`: The source code and results of the DRAM address mapping function reverse engineering in **Section IV.B Online End-to-End Fault Injection Attack**.
 - `MemScanRes/`: The identified effective hammering patterns and flippable memory bit results shown in **Section V.C The Memory Bit Flip Results**.
 - `ModelAtkRes/`: The fault injection results of different object detection models presented in **Section V.D ADS Perception System Attack Results**.
@@ -33,21 +32,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
   ​		Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
 
-### 2.2 DRAMHammer
-
-- **Introduction:**
-
-  ​	This tool is designed to identify effective hammering patterns and trigger Rowhammer attacks on DRAM for tasks such as collecting flippable bit information (e.g., physical addresses, DRAM locations, and flip directions). The detailed procedure is explained in **Section IV.B Online End-to-End Fault Injection Attack**.
-
-- **Prerequisites:**
-
-  ​    `g++ 8.x`, `cmake 3.14.x`
-
-- **Quick Starts:**
-
-  ​    Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
-
-### 2.3 DRAMReverser
+### 2.2 DRAMReverser
 
 - **Introduction:**
 
@@ -62,7 +47,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
   ​    Please refer to the `README` files within the respective sub-folders for detailed steps on running the code.
 
-### 2.4 MemScanRes
+### 2.3 MemScanRes
 
 - **Introduction:**
 
@@ -77,7 +62,7 @@ According to **Open Science** in the paper, this repository includes the followi
 
   ​    To facilitate analysis, the results are partitioned into multiple files, each containing data for a 128 MB memory region.
 
-### 2.5 ModelAtkRes
+### 2.4 ModelAtkRes
 
 - **Introduction:**
 

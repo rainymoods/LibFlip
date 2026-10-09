@@ -30,8 +30,6 @@ The source code and results of the DRAM address mapping function reverse enginee
 
 ---
 
-## Integration Guidelines
 
-Execution outputs from this module should be imported into the corresponding configuration structures within the `DRAMHammer`. Refer to `DRAMHammer/README.md` for integration details.
 
 <br>
